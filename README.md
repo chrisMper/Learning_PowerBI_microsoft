@@ -84,7 +84,13 @@ SELECT CAST(CustomerPostalCode as varchar(10)) FROM Sales.Customers
 By specifying the correct type at the data source, you eliminate many of these common data source errors.
 
 
+# Activity
 
+![import_data](images/PBact1.png)
+
+![import_data](images/PBact2.png)
+
+![import_data](images/PBact3.png)
 
 
 
