@@ -88,8 +88,6 @@ By specifying the correct type at the data source, you eliminate many of these c
 
 ![import_data](images/PBact1.png)
 
-![import_data](images/PBact2.png)
-
 ![import_data](images/PBact3.png)
 
 
